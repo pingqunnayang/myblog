@@ -1,0 +1,17 @@
+logs/
+.DS_Store
+target/
+dependency-reduced-pom.xml
+.classpath
+.project
+.settings/
+.springBeans
+.metadata/
+*.ipr
+*.iws
+*.iml
+.idea/
+*.swp
+*.swo
+*.swn
+logs/*
